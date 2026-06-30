@@ -1,1 +1,280 @@
-return(function(...)local y={"$RyAd1t==","6-sO";"6&\'E-hnI";"$RVB5WvWIWvlV6kvn0/==","$Eg3CywwdjvYy0vCz/VE=","$FuAL3bYl";"$pgYLpgAd";"$WbYaWTBmRuF=","$WbAZRbH=","63T`Vs(<?,RC;","6GgJOF!-[4T>oBk";"$fqYI3yn=","6(^OB!DoWAY[_`79[<q";"694&.^p/L)","6RI";"6BkHg5#EOU$c[WpG8G7GN<\"8_qZWGqVKWm\\d/E?&H@RME&X_,YYsAs=Ed>/_1ii:_f;5K&NDlcO7m6UO)YO4C5;:_,0PojT3_h/3";"$/wCvEXBu/yCwsy350uS=","6n,@@^-F";"6[6ah*>/O","$WqBEsAv=";"$FuwlRk3X";"6Wn_?kWDZS&!&Up,\"F","6$+E%_>IZ&p97NK^>Af","6GgJas&pFU";"6&kWt(nI","6!uED\"WmN";"6Co[\"(WX5)l>4p$g&L";"$pxXd3/==","6R\\)\"sVZi-","6lrCEe90n)M&2DtMWLL";"$pgCCFr==","$RJz=","$WyeGpy09";"$RfC3ywrq1uve0VAf";"$wglDR537svXZy5XgWt==","6!WPN3WVpe]","6@,(I`&k&2F&kor2!-%U,","6!hrLl&ko>N>\"!85";"6@sS?_\"L_*[&<uq39jI","6";"$3gAl3/==";"6W,Xl\'$B#nA6UFg)";"$RbYC3T0dFuXL3G==","$HkAp1XzqhbmTEkwd","$V5WAVx3BHgB63f3Q","$1yYCVbXQ/gmd1y3dHG==";"6GgJD:","6[CXRE"}for h,o in ipairs({{-459238-((15736+-616787)+(469110-327298));297611607%4313211};{233743+-233742;359857+-359823};{(1798224968-297748)%13724635;-159904-(-159952)}})do while o[(375176071732%3001539180)%15467427]<o[(1047749967-1555493637%(-857657+(-920599+16734634)))%7937270]do y[o[-338850+349244145%3200966]],y[o[2179148978%15132979]],o[76542211%850469],o[-272208+272210]=y[o[-370273-(-52727-317548)]],y[o[-325630-(-721279-((-985280+100506)-(-754621+265495)))]],o[-693512+693513]+(3037955380-440223)%12980834,o[-6369-(-6371)]-(-624853-(-624854))end end local function h(h)return y[h+((576164+(-531668+-709207))+(37137+48869586%3709405))]end do local h={["-"]=(60557-(-166538+-668281))-895342;H=380-3932694937%16593648,R=134820465%((1082076945-706084)%(2906238304%((-905653+2351087914)%(24243169-792819020%4061287)))),["<"]=694102+-694030,N=40771+-40766;["2"]=37210578%2188853,["&"]=-656780+656812,[">"]=-489608+489639,["6"]=663939+-663919,["="]=570430-570373;B=139722+-139653;["^"]=889018+-888942,["4"]=299585-299561,["7"]=-843957-(-844005),X=604080+(435331+-1039397),["\\"]=(-278816+2086639855%13367935)-963121,["1"]=2805037267%(-620302+16378938);T=-215708-(771749-987458);r=(92724-(-344381))+-437063,o=509908-(235409+274446);W=348453-348418;M=2059088662%12041454;f=(167245728-428439)%775894,["`"]=(-543985+1300448639%7065372)+123856;m=1693854209%7147064,I=288525-288471,["]"]=41985+-41903,_=-226053+226070,h=175178903%((-930517+807014)+1191667);q=135772336%1245617;D=3059803456%14501438,n=629693-629657;e=-835802-(-835808);L=444526453%3767173;[")"]=765727+(-698579+(964877-1031959)),["5"]=(52047352417%306258227)%(-982600+6660246)+-152044,["%"]=((588636-31682)+-554601)+-2285;["@"]=(215306836081%(-923097+(24031698263837%176703717834)%1549968091))%9444616;l=(542914-(-419872))-962770;A=270956889%2463244;j=441827+(-948353-(-506599)),G=99250+(284650+-383870),["!"]=(109275-75533)+-33705;["+"]=(-776123+((-381555+(31555150%1294155-696079))+632601))-(-725769);c=707340985%2910868,["."]=(372769207410%2662749231)%15946170;V=704021707%((18258449477%294754220)%11820105),O=(-1381663-(-521271))-(-860448),["/"]=250027088%((-333432+884620)+1245859836%(2327555261%9140108));["9"]=447634+-447611;["\'"]=1712004446%(12385611-(359991+(375795+(-1087211-39116)))),d=(930989-112818)-818159,U=376713-376629;i=718039-717972;[":"]=784510-784458;["*"]=857923+-857923;Z=-896985+897031;k=2389563526%10434775,["("]=-608408-(-608423);s=1042213+-1042148;K=710571+-710521,["#"]=927471619%15204452;["["]=-291845-(15629721%5052956+-762731),g=575758-575703;J=-261623+261663,S=1420269485%10217766;["?"]=-1027924+1027987,p=604011220%4137063,Q=-867120+867191,[","]=297413-297403,Y=678033+-678030,b=-768437+768439;E=1030065168%10958140,F=966198-342370083%1338839;["$"]=1231589012%(5012092-(-611602));["0"]=179928-179854,u=336253019%9867878+(-447083+-298075),["3"]=(777498+1614610767)%13350316,a=1038377+(-1661946-(-623613)),P=1389690955%10856960,t=-554395+450744215%13240875;["\""]=831928885%3961566,C=(1023091-750105)+-272965,["8"]=962622-962618,[";"]=-1041259-(-1041304)}local o={c=-568598+568647,l=1526796525%15904130,["4"]=321169+-321107,d=1329565372%(288614750%((778342+4511781012)%29122364));Q=(-946367+(476194350099%(2009903703-575129)-(-432210)))%9862834,x=-647314+647353,M=-353019-(-353059);["+"]=47659021%(1070246-35321306%2921570);["6"]=-832437+832455,j=949024266%12487161;y=-614041+614063,K=643712730%10910385;A=885397+-885392;a=(81261146050%2390202277)%14810378,k=356144-356089,T=607343+(-94609-512727);R=631398+(-138814+-492557),q=218345-936409703%(32126+(247777+8809334));E=-506611-(-506623);["8"]=73070995%14614189;s=(-215678-((204358-(-640179+1154022))+265611))-(-94542-77276);["3"]=945065-((-567311+699280015433)%3014150445)%11991037,U=11276490%(5456256-(-181960)),X=(-566648-(-836410))-269725;O=570553-570518,v=-660919-(-701737+40814),g=640721-640667;["1"]=168580-168554;t=(-505398-(-161537))-(-343861),f=(755411+-1169985)+414597,D=(456882-(-370082))-826953;["2"]=696307-696276,V=-318271-(383104-701394),C=334245243%8570390;p=(832808+-922600)+((-808698-(-407595))-(-490919)),Z=-545215-(-545249);["9"]=(((189516-(1012530-795559))+-728069)+3081616831)%14811833;b=(114895253990%957546692)%5065228,i=980366+(-1347645-(-367338));m=-544732-(-544773),u=-867539-(-867577),J=-663820+(-6689+(1330264-659752));r=-552280+552312,z=588268-588260;n=1379621792%7001668+-293140;F=972919+-972891;S=641465178%(698710041%15419711),I=(1012845181-(-526231))%5891694;G=902356-902308,e=-590776+(147726-(-443107));L=792882-792836,P=3722+-3680;W=265881712%(107374+15532725),["5"]=-1022869+1022905,h=897724130%5311977;o=2145704843%13494999,N=((683759-143320)+(-809526+-234965))+504115;["7"]=-703173-((-677496-((-172507+-1277730)-(346649+-1185845)))-636765),w=449290+(407964+-857233),Y=-804634+(1798478952%(9899527-(-107780-826321))-(-707991)),H=751556+(122165-873701);B=((-174589+-511023)+167123)+518498;["0"]=35444+-35431;["/"]=(553037-(-309861))-(349995658186%2991470372)%16671688}local l=string.sub local u=y local j=table.insert local Y=table.concat local d=string.len local R=string.char local m=math.floor local p=type for y=(-608412-(-786105-((-253417+-492672)-(-538092))))-(-30305),#u,-244031-(-542740-((533417-(-395515))+(-650781-576859)))do local n=u[y]if p(n)=="string"then local p=l(n,-467817-(-467818),1003568476%(-199975+((10943253-(-880139))-595192)))if p=="$"then n=l(n,-22985+22987)local h=d(n)local p={}local k=-827940+827941 local B=996613+-996613 local N=357868-357868 while k<=h do local y=l(n,k,k)local u=o[y]if u then B=B+u*(((((-813071-(-535901))-(-245262))+296794922)%13489225)^(((-148245-(-148248))-N)))N=N+(-758344+758345)if N==-1013556-(-1013560)then N=1349587176%10147272 local y=m(B/(134304303%(((623545819-(-141082))-419612)%2487856)))local h=m((B%(261901708%1118958))/(220402-((-572515+-77087)-((669748-(-257518))+-1797014))))local o=B%(2156975356%(788532914%22910187))j(p,R(y,h,o))B=-513356-(-513356)end elseif y=="="then j(p,R(m(B/(499372-433836))))if k>=h or l(n,k+(1617441298%6599423-(1582714-1000052)),k+(-721771-(-721772)))~="="then j(p,R(m((B%(875227+(-843120-(-33429))))/(1492113437%13944983))))end break end k=k+(-878490+((2786838-((-392202+(-952262+(43606-(231672+-1035697))))+1475963))-929217))end u[y]=Y(p)elseif p=="6"then n=l(n,-467356-(-467358))local o=d(n)local p={}local k=1557804193%6954483 while k<=o do local y=(o-k)+(755758+-755757)local u=y>=84593-84588 and-607605-(-1567229-(-959619))or y local Y=((-1745917-(-807922))-(-749951))-(-188044)local d=u>(1533321863-(-745225))%9528367 for y=-574712+2649865272%16558066,-840279+(32229-(-808054)),-160619+160620 do local o if y<u then local u=l(n,k+y,k+y)o=h[u]if not o then d=false break end else o=1682435784%10196580 end Y=Y*(168989-168904)+o end if d then local y=m(Y/(16143037-(-634179)))%(258112+-257856)local h=m(Y/(-579901+645437))%((1191296-631382)-559658)local o=m(Y/(-999406-(-999662)))%((913850+-901799)-11795)local l=Y%(206533+(623247-829524))if u==(551794-344479)+-207310 then j(p,R(y,h,o,l))elseif u==(581199715305%2343584489)%13041042 then j(p,R(y,h,o))elseif u==737197+-737194 then j(p,R(y,h))elseif u==233313950%925849 then j(p,R(y))end end k=k+u end u[y]=Y(p)end end end end return(function(u,d,j,R,Y,y,l,Z,i,p,n,A,L,N,o,k,M,B,D,W,m)D,Z,B,N,o,m,W,k,n,M,i,A,p,L=function(y,h)local l=B(h)local u=function(u,j,Y)return o(y,{u;j,Y},h,l)end return u end,function(y,h)local l=B(h)local u=function(...)return o(y,{...},h,l)end return u end,function(y)for h=546643+-546642,#y,((-198674+670025)+1784552482%11511277)-775897 do p[y[h]]=(1042597-1042596)+p[y[h]]end if u then local o=u(true)local l=Y(o)l[h(-676366-(-656629))],l[h((1498258-839415)-1580005865%9748934)],l[h(-122319+102618)]=y,N,function()return-165173+3134976 end return o else return j({},{[h(-608687-(-588973))]=N;[h(1002012-1021749)]=y,[h((-213525+-39560)-(-233384))]=function()return 4367040603%(4600884510%30344860)end})end end,function(y)local h,o=-501382+501383,y[644129789%5552843]while o do p[o],h=p[o]-928044835%(176725320%18909977),(832076-832075)+h if p[o]==-807529-(-807529)then p[o],m[o]=nil,nil end o=y[h]end end,function(o,u,j,Y)local E,S,P,H,t,I,T,x,G,U,p,J,w,s,Z,Q,c,f,C,a,K,B,g,b,yu,X,z,O,F,e,R,V,r,v,q,k,N while o do if o>349820+9790817 then if 13969871-95032>o then if o>2145599041%19048307 then if o<209712+12672987 then if o<-505380+12892441 then if 12402530-(684638+-568388)>o then o=12803671-737384 elseif 552988+11752293>o then k,o=1057382509%((118997+-580566)+13049456),{}p=o B=m[j[-732242+565877171%6279388]]N=B B=(508985+193642)+-702626 Z,o=B,98431432%(173326+21317652)B=479910+-479910 G=B>Z B=k-Z else r,X=(316918+-1051122)-(-2128+-732077),92913+-92912 C=#N f=G(X,C)X=V(N,f)C=m[v]f=nil E=X-r H=Z(E)E=-905732+905732 C[X]=H H=#N C=H==E X,o=nil,C and 6705742-(143767+-417242)or 12019888-(-286715)end else if 12415313-(-219077)>o then V,B=not G,Z+B k=B<=N k=V and k V=B>=N V=G and V k=V or k V=14324521-((853487+-629606)-1034309)o=k and V k=5910943-(-561014)o=o or k elseif 1240537555%17538594>o then o=5813570-(-157893)else O=890862-890859 s=V==O o=s and 11301422-(-456611)or 5212556-(-58812)end end else if o>195846+12885911 then if 993889736%19226444>o then m[k]=b o=U U=m[k]o=U and 1396646054%10191685 or-1016375+17295155 elseif o<-347567+4614651288%18402462 then s=h(-913827+894086)R=m[k]o=R~=s o=o and 5749409015%22496501 or-192764+7739876 else x,o=h(698228-(-198365-(-916321))),249390+-195160 c=y[x]v=c end else if 1601862635%(12258843-(529358+-1402388))>o then o=390596+2810954 B=m[j[1136806440%7149726]]k=B==p R=k elseif 363870+12622324>o then K=nil b=W(b)S=W(S)o=4026080-100956 T=W(T)J=W(J)r=W(r)F=W(F)else H=h(814402+-834106)C=y[H]H=h(784560-804288)X=C[H]c,o=X,2488751674%29089208-(-282479-(-202773))end end end else if o<10599292-(-424041)then if((-460107-(-47177-713230))+180808724)%10067275-(-912208)>o then if 10708325-337705>o then o=5005533-(-713229)elseif o<((398980-50338)+((358313-754879)-425465))+11095757 then o=9071879-956981 else O=108062+5123432<-114282+6595964 s=m[k]R=s==O o=R and 15029064-145410 or(614843896883%(779416188987%5266401431))%28123157 end else if o<1865262598%(3082477229%21032474)then Q=(-131382+727678062)%2864357 e=K[Q]o=986845586%7356296 Q=m[T]q=e==Q yu=q elseif 545214+2446762873%10592725>o then P,O=h((-629985+-238620)+848870),f U=y[P]P=h(701234682%(10065624-((-966990+376565)+-127645))+-314305)b=U[P]U=b(p,O)b=m[j[29715436%312794]]P=b()H=U+P C=H+V o,O,H=802711535%3884631,nil,((270388+-1051643)-(-563951))-(-217560)X=C%H V,U=X,1901501151%14972450 b=V+U H=N[b]C=s..H s=C else o,R=y[h(485444+(-1495473-(-990298)))],{k}end end else if-549201+12017423>o then if 1034794337%4257554+10861907>o then t=m[k]I,yu=t,o o=t and 16631755-423567 or 2039813471%17210284 elseif 2147685682%15261125>o then R,o={},y[h(221344-241052)]else R=2929199509%19167823>10873463-896290 m[k]=R o=5004999347%20051940 end else if 11337995-(672985+-1247150)>o then v=2078118853%19376645~=14314538-851595 O=m[k]s=O==v o=s and(449857+(-680834+422589))-(-245247)or-333336+(-555218+1433291)elseif 1035699+11051801>o then V,o=nil,15248611-(-250005)else b=n()m[b]=U J,K=h(852220+-871932),616135-616035 S=y[J]a,J,I=1320920590%12008369,h(-289005-(-269298)),520789919%(6884383-898292)r=S[J]F,J,z=2594778007%16422644,(33148552393%172697912)%1457600,(564466917-(-524684))%3323480 S=r(J,K)r=n()g=37741681%322493 m[r]=S S=m[O]q,K=h((32239402206%208089328)%(372917605%27448101)+-557895),(-385514-14075)+399589 J=S(K,F)F=485530589%(2188987-(-870417+755526106%4867897))S=n()m[S]=J J=m[O]T=m[r]K=J(F,T)J=n()m[J]=K F=m[O]T=F(z,I)F=-923506-(-923507)K=T==F F=n()T,I=h((-832424-(-266582))+546110),h(-940259-(-920513))m[F]=K t=y[q]e=m[O]Q={e(a,g)}q=t(l(Q))t=h(528429+(87841630%(1601533811%(10695112-388346))+(-1610447-(-892424))))yu=q..t K=h(-903688-(-883975))K=C[K]z=I..yu K=K(C,T,z)T=n()m[T]=K I=h(989099+(158112+-1166954))yu=A(8284130-(-552220),{O;b;v;N,k,H,F,T;r;J;S;f})z=y[I]I={z(yu)}z=m[F]o,K=z and 2092842969%16090879 or 359333+10703957,{l(I)}end end end end else if o<((-202067-(-677664))+1732028255%16514984)-(-299143)then if o>538083+(155503+(134512+5005154019%19728109))then if o<14477335-(490842+-1013137)then if 1736976513%18127808>o then U=A(2001378639%9063604,{Z})P={U()}o,R=y[h(-685168-(-665459))],{l(P)}elseif 1267118708%19566098>o then o=11547710-(-720891)else o=R and(2879+1597778041607%(1475418209669%6251816471))%25606748 or 1606076333%8027200 end else if 11969+15108526>o then s=(385707+1374873146)%15807573 R=V==s o=R and 12225273-1046862 or(-356382-(-355858+-384598))+12486617 elseif(15133147-51924)-(-72165)>o then s,O,k=402976950%16119078,968488690%8885215,B o=m[j[783717+-783716]]V=o(s,O)o=-1033359+395815893%21239723 p[k]=V k=nil else U=14844030-(-701418)~=8201574-923681 o=U and-439430+5201486 or 3138920-356347 end end else if 4789100559%28088019>o then if o<-43149+14064477 then k=m[j[(-263738+822558)-558819]]p=#k N=nil B=m[j[-292918+69772539%(293701490%9624622)]]k=B[p]B=m[j[1210824433%7615248]]o=y[h((-115529-837432)-(-933235))]B[p]=N R={k}elseif 2192303700%(-617096+22183437)>o then P=c==x b,o=P,584170+12524254 else p=m[j[185348-185347]]R=#p p=121590205%650215 o=R==p o=o and-138757+(-267783+1649426661%11493332)or(3107479427-45934)%30328299 end else if 995536135%(24163980-800296)>o then O=L(3160604655%(14814026-(-346384)),{})R=h(1009984-1029709)o=y[R]p=m[j[(-1103316-(-278828))-(-824492)]]N=h(469256+-488961)B=y[N]s=h(-294466+274723)V=y[s]s={V(O)}G,V={l(s)},((-1355920-(-1019575+76706))+1267975)-854922 Z=G[V]N=B(Z)B=h(962519+-982251)k=p(N,B)p={k()}R=o(l(p))k=m[j[-939072+939077]]p=R R,o=k,k and 13664573-769866 or(584494+2381196)-(-235860)elseif o<-1043310+(((148285+(-194392+738946))+15385606)-491277161%14435269)then B=(1773192607-345105)%13230205 k=m[j[(8453+-982188)+973738]]p=k%B v,B=(-628730+4067842042)%(-956924+17291114),1051087162%(-25992+16709915)G=m[j[1745089219%(7859949-(-529903))]]Z=G-p G=(-1625488-(-824058))+801462 N=Z/G k=B-N Z=m[j[1048451+-1048447]]s=m[j[-576412-(-576414)]]O=v^k V=s/O G=Z(V)Z=-524832+4295492128 N=G%Z G=1952804342%10848913 Z=G^p O=1496837265%7715656 B=N/Z Z=m[j[735360-735356]]s=B%O O=4295888826-921530 V=s*O G=Z(V)Z=m[j[-764635+764639]]V=Z(B)N=G+V B,p,s,X,k,G,O=nil,nil,34578544%310928,-992966-(-993222),nil,115314+(-8108-41670),487896556%6505284 Z=N%G V=N-Z N,o=nil,13579027-(-367968)G=V/s s=Z%O c=(1082070-397142)-684672 f=Z%c v=Z-f f=1374321404%((17423768-369549)-294205)O=v/f f=-508883+509139 v=G%f x=G%X c=G-x x,Z,G=-33330-(-33586),nil,nil f=c/x V={s,O,v;f}m[j[916531234%6690009]]=V else p=h(-565765+546029)o=y[p]k=m[j[(525097+-1046510)-(-521421)]]B=888250-1827430849%13733403 p=o(k,B)o=(480100893-((-493347-(-806781))-(-643978-(-1024483-(-870907)))))%25944061 end end end else if o<1638814356%18868219 then if o>5995381785%(9614548588%42611072)then if 2111711939%31755106>o then o=2675544053%16321302 elseif o<3572393418%20438755 then s=-668533-(-668534)R=V==s o=R and 4464682962%20524838 or 1834657628%17165581 else k=m[j[71222622%3561131]]B=m[j[-352358+352361]]o=3546163381%(22997480-(-1024766))p=k==B R=p end else if 217900+15190153>o then C=h(-976746+957042)o,v=V,h(207537+-227249)O=y[v]x,f,v=o,h((276109-950197)-(-124467+-529917)),h(-159025+139318)V=O[v]O=n()m[O]=V v=y[f]f=h((-815630-(-367182))+428742)V=v[f]X=y[C]c,f=X,o o=X and 12364697-(-690394)or 5051874536%26639545-751831 elseif 221900+15351509>o then B,V=Z+B,not G R=N>=B R=V and R V=B>=N V=G and V R=V or R V=2041843100%9235199 o=R and V R=2395908-(-1570496-(-1033814))o=o or R else R,p=h(20205+(-702879-(-662945))),h((121608+(457140+-1500341))-(-901882))o=y[R]R=y[p]p=h(207695-227406)y[p]=o p,o=h(899510-919239),2090069096%9801472 y[p]=R p=m[j[(1004061-956829)-47231]]k=p()end end else if o<17087178-823438 then if-916593+17118168>o then B,k=2206462-(81741+157535),h(732010+(-277135-474591))p=k^B R=3339212132%22968074 o=R-p p,R=o,h(861309+-881031)o=R/p R={o}o=y[h(291630-311349)]elseif 1294470591%((234824301506%1555228927)%33797427)>o then q=1428155718%8400463-(-751515-(-828522))t=K[q]I,o=t,-417721+9417680 else o,v=x,c o=c and-789981-(-844211)or 13032037-(-770646)end else if 983932127%18607267>o then o=108947056%23540301 else B,o=nil,5452402-121480 k=W(k)O=W(O)Z=W(Z)C,x=nil,nil G=W(G)v=W(v)c=nil f=W(f)X=nil N=W(N)B=nil k=nil H=W(H)N={}c,V=h(733613-753317),nil V=h((-1626811-(-1033471))+1586617198%(((1409052-605522)-(-102214))+11201459))G=y[V]O,V=h(902388-(675425+246675)),h((626557+((940749+-2116843)-(-362339)))-(-167468))Z=G[V]V=y[O]O=h(630142+-649849)G=V[O]V=510461+-510461 v=n()O=n()m[O]=V V={}m[v]=V f=y[c]c=h(-843525+823785)V=f[c]f=161571356%(1792056993%10537152)c=n()X=h(2660276787%17049413-588071)m[c]=f x=y[X]X=h(655437-675147)f=x[X]x=n()m[x]=f f,X=-134325-(-672784+538458),(115281-941504)-(-826479)C=X X=790580176%10541069 H=X X=263639+((702538-(-80881))+-1047058)E=H<X X=f-H end end end end end else if o>864437+4296775 then if o>8018701-519770 then if(421421132791%2464537241)%14797533>o then if o>-387024+8232396 then if o<990412877%9631006 then p,R=h(((-1177111-(-785443))-(-355354))+16590),h(455950+-475686)o=y[R]R=o(p)R,o={},y[h(459744-(122022+357422))]elseif 4697499900%19620673>o then s=818013+8284321<=86269919%(-329511+24295927)o=s and 10756078-304458 or 11200899-911279 else U=o P=m[k]o,b=P and 5820945827%30720885-602900 or-994364+14102788,P end else if o<(7798522-982407)-(-754055)then o=1959859377%25649588~=5778778-611347 m[k]=o o=1351797237%(525523+26269096)elseif 174821+7474349>o then Q,t=492283+-492282,o e=K[Q]Q=7682755-((410888+-609459)-(5206635855%79132911)%5713618)>=(8534293-(-822269))-(-14021)q=e==Q o,yu=q and 4705915198%(605643+24910407)or(288035330223%(1531174496-(-1009776)))%9299199,q else o=226197+5745266 end end else if 9297558-378723>o then if 360803440%(6685148683%27126021)>o then m[k]=z o=I o=1500648723%(18920504-996029)elseif o<88571+1703506420%(-138606+6300628949%((25286005-(-603041))-438166))then k=m[j[303975+(855903+-1159877)]]Z,N=(260696+626147)-886841,436449-436448 B=k(N,Z)k=-455511-(-455512)p=B==k R,o=p,p and 743333239%(155538+24125796)or 3221555842%24657352 else k=n()B,R,p,o=329706+(42238+-371940),-642819+642819,u,h(471215-490956)N=B B=-108439-((1286392-317457)+-1077375)Z=B m[k]=o B=(1011688-661414)+((-626434-(-42591))+233569)G,o=Z<B,14743203-(-755413)B=R-Z end else if o<-267755+(32048+3318507460)%23634804 then m[k]=I a,o=(1007197+89118364)%826840,yu o=-225352+13142650 Q=m[J]e=Q+a q=K[e]t=c+q q=-819404-(797159+-1616819)yu=t%q e=m[S]q=x+e c,e=yu,359537-(203147+324230093)%6114603 t=q%e x=t elseif o<1368280835%(658430+16111765)then k=m[j[317142651%4404759]]B=655125271%(14278974-(-956494))p=k*B k=(-1531861-((-937892+-725346)-(-705354)))-(-574234)R=p%k m[j[205202+-205199]]=R B=823939+-823938 k=m[j[-540873-(-636830-(-95954))]]p=k~=B o=p and(1148733528172%(4470500290-705421))%21821974 or(10556727-(69967-(629506-327305)))-990534 else o=((-604801+569751)+-276629)+7858791 end end end else if o<(913012285-55666)%8636669 then if o<5983085-399756 then if o<2936743877%14730868 then O=(130075982954%703125607)%7701882 s=V==O o=s and 1306800-(-903588)or 12534468-219138237%1333354 elseif 145357+(1861830342-(-1032260))%10800033>o then r,X=not E,H+X f=X<=C f=r and f r=C<=X r=E and r f=r or f r=((566483+(528163+-2018119))-(-772863))+6391896 o=f and r f=4607127-282323 o=o or f else k=m[j[(30983019816%191264793)%(567976-(-224443))]]B=599738+-599525 p=k*B k=5877855626348-(-155869)R=p+k p=455653+35184371633179 o=R%p m[j[-456997-(-456999)]]=o o=(592601+2231262056)%13070919 end else if o<168460+5537428 then o={}m[j[-432003+432005]]=o f=385937-385936 R=m[j[267289179%4049836]]Z,N=(215645033561453284%7986853095195668)%35184374841934,R R=k%Z m[j[493391276%(-910333+((433748+(-383137+369070827%(11051165-(755556-555083))))+15223931))]]=R O,V=(445562-(-346284))-791845,494303-494048 G=k%V V=-631363-(-631365)Z=G+V m[j[(12181339469%65225643)%542526]]=Z G=#p V=h((410853+(-570904+-189943))-(-330273))B[k]=V c,o,V=f,(51934836236%376443769)%5366602,566463-566311 f=(109794093-(-183325))%575798 s,v=h(641069+-660790),G x=f>c f=O-c elseif o<5601302-(-243810)then o=3695886217%15478235 else o=4545024-511300<3387892360%(4404123426%30063449)o=o and-725924+8431036 or-291001+1134350297%11020271 end end else if o<6957459-(-151837)then if o<6394725-38104 then f=X r=f N[f]=r f,o=nil,5558720-227798 elseif 784023733%7002686>o then o=m[j[293494155%1822945]]k=m[j[188896574%1870263]]p[o]=k o=m[j[-514293-(191936-706241)]]k={o(p)}R,o={l(k)},y[h((153617+-836385)-(-663024))]else o=y[h(-1033954+1014215)]X=n()R={}C=i(412427+13698429,{X;O;c,x})V,F,f=nil,h(808496-828198),{}m[X]=f f=n()r,Z,T={},nil,nil m[f]=C G,E=nil,h(942525+(-1588976-(-626728)))H=n()J,C=h(67309+-87046),{}m[H]=C C=y[E]Z=h(703750+-723468)K=m[H]S={[J]=K;[F]=T}x=W(x)N=nil E=C(r,S)B=E C=L((304384626631%(-458548+1720211285))%11840428,{H,X;v,O,c;f})V=h(-452684+(749224-316260))v=W(v)X=W(X)k=C c=W(c)N=y[Z]H=W(H)O=W(O)c=-551676+4316174490880 G=y[V]f=W(f)f=h(-697969-(-1044403+366179))v=k(f,c)O=B[v]v=h(-104939-(-85240))v,B,k=G[v],nil,nil V={v(G,O)}Z=N(l(V))N=Z()end else if o<648037+(155616479%(331669231%((-86254-98291)+14540817))+5920426)then B,k,R=(13498166-(-334463))-572072,h(((1412537-483371)+-1118352)+169448),(7286946-758568)-529445 p=k^B o=R-p R,p=h(-138229-(-118526)),o o=R/p R={o}o=y[h((635168+-1205426)-(-572779+(907274-885026)))]elseif o<-820716+8238970 then o=-832357+3187917 else R,o={k},y[h(-810484+790769)]end end end end else if o>(945388+725843)-(-611743)then if o<2559670-(-602748)then if 3355751-566731>o then if o<1899325-(-517229)then o=465314906%16172861<2210558491%21726892 o=o and 15604530-(-43673)or 11741273-(1320286-656967)elseif o<-854287+3484348 then X,f=not x,f+c O=f<=v O=X and O X=f>=v X=x and X O=X or O X=5397448751%23423892-(-1025707)o=O and X O=2654648805%(7810327724%33446832)o=o or O else o,R=y[h(-329983+310249)],{}end else if o<271092+2592937 then o=-191417+(2758256091%18402570-3041872865%12361638)elseif 3959793-931855>o then o=7078061006%(557122+(6340354456-(-775606))%27935506)~=-338442+2195338 m[k]=o G=n()Z=h(-962847-(-943112))N=y[Z]Z=h(-24195-(-4453))B=N[Z]N=n()m[N]=B v=h((1123190-223305)+-919628)Z=n()B=M(((723958-78971)-381969200%(1634808314%8383007+4164475))+7818110,{})m[Z]=B V,B=o,2751839296%12702988>4436659093%(6924349378%35381998)m[G]=B O=y[v]f=A(30502-(-622749),{G})v=O(f)B,o=v,v and 1058784-(-837663)or-523380+15840871 else k,p=u[485414-485412],u[137996251%1839950]o=m[j[1252404919%(((5435823750-(-1016022))-75051)%26598780)]]B=o o=B[k]o=o and-699315+((-1108803-(1564009260%7172752+-924368))+(11943604-(883759+-1156605)))or(5772324-(-679152))-(1648380136%207638152)%(14661353-(-273617))end end else if o<725520021%9131583 then if 2614763317%11256293>o then o,p=(101732+1339530)-804929,nil m[j[(475816+-25551)+-450260]]=R elseif 856201528%4633350>o then V,O,G,o=nil,s,nil,130544+7320206 B[k]=O N,s=nil,nil else r,U=not E,U+w b=U<=P b=r and b r=P<=U r=E and r b=r or b r=5836956474%28275960 o=b and r b=7275598-(-927611)o=o or b end else if o<-590656+5134086 then o=(-267830+-667055)+13241488 elseif 605028727%7152890-(-720589)>o then E,w=(-543194-464826)+1008026,1943744727%8032003 U=m[O]P=U(w,E)U=h(-803739+784010)y[U]=P E=h(763159-782888)w=y[E]E=664653-137780965%5078382 U=w>E o=U and 6090462-((2240510-607758)-593347)or-303257-(910497+-1306014)else r,w=h(945270+(-1528955-(-563974))),h(162517-182222)U=y[w]E=y[r]w=U(E)U=h(-20710-(1025701-1026682))y[U]=w o=5072853788%22376566 end end end else if-754001+1398793>o then if 1313498500%6803562>o then if o<246032105%3513698 then o,X=f,291574+-291509 f=n()m[f]=v v=m[O]x,E=523588-523585,h((-1072568-(-1042209))+10654)c=v(x,X)b=D(4011307343%(19958944-82763),{})v=n()m[v]=c x,c=-723289+723289,74606186%1447260-795926 o,H=2642560965%(1463887087%17296861)-(-498042),h(302933-322676)C=y[H]H={C(b)}X={l(H)}H=-903135-(873811+(-1380463-((341057+-1289179)+1344607)))C=X[H]b=h(515450-(244330+((-1082160-(-316708))+1056297)))H=y[b]U=m[N]w=y[E]E=w(C)w=h(333335+-353067)P=U(E,w)U={P()}b=H(l(U))H=n()m[H]=b b=2050189%(485871309%2710547)U=m[v]P=U U=-578729-(-578730)w=U U=496082340%13780065 E=w<U U=b-w elseif o<1160146406%13180769 then E=h(771966-229002670%15214065)U=y[E]E=h((59197+-969238)+890330)y[E]=U o=2086052080%26542336 else o=(400099+-479230)+16508837 end else if o<208006+282792 then o=49048942%10832545 elseif 236295957%(4122507497%17232536)-(-178158)>o then o=(-22432+-580802)+8718132 else o=m[j[(-987870+2174103335%8835535)-(-426152)]]o=o and 15650972-895744 or 2310600119%12490740 end end else if o<1031844-(-33466)then if o<-68488-(-827174)then o=1698830535%13494494~=199877-(110320+(-964729+346879))m[j[70751159%1725638]]=o R,o={},y[h(126132+-145849)]elseif o<-264772+1211182 then V,R=B,190770+(-1029855+(1357520-518435))o=V==R o=o and-625040+14198800 or 376548+15623466 else I=o yu=m[k]o,z=yu and-1039820+8633048 or 9078929-864385,yu end else if o<227824272%2286112 then o=t o,z=3292166020%21050971,yu elseif 1933206-(774129+-894340)>o then O=m[G]o,B=15534332-216841,O else o,s=-817157+12883444,15673750-(820792-419929)<=-313158-(-238740-492156)m[k]=s end end end end end end end o=#Y return l(R)end,{},function(y)p[y]=p[y]-((536011+-1058806)+((-844436+-153636)+1520868))if p[y]==-148917-(-1071829-(-922912))then p[y],m[y]=nil,nil end end,-493932+493932,function()k=k+(-244864-(-244865))p[k]=(-1354484-(-838425))-(-516060)return k end,function(y,h)local l=B(h)local u=function(u,j)return o(y,{u;j},h,l)end return u end,function(y,h)local l=B(h)local u=function(u,j,Y,d,R)return o(y,{u;j,Y,d;R},h,l)end return u end,function(y,h)local l=B(h)local u=function(u)return o(y,{u},h,l)end return u end,{},function(y,h)local l=B(h)local u=function(u,j,Y,d)return o(y,{u;j,Y,d},h,l)end return u end return(Z((3394917015-316167)%13435568,{}))(l(R))end)(newproxy,select,setmetatable,{...},getmetatable,getfenv and getfenv()or _ENV,unpack or table[h(241170-260898)])end)(...)
+local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
+local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
+local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
+
+local Window = Fluent:CreateWindow({
+    Title = "Tapiiox hub",
+    SubTitle = "by mr, tapiiox",
+    TabWidth = 160,
+    Size = UDim2.fromOffset(580, 460),
+    Acrylic = false, -- Desativa o efeito blur do Windows 11
+    Theme = "Darker", -- CORRIGIDO: "Sakura" não existe na biblioteca original. Use "Darker", "Dark", "Aqua" ou "Light"
+    MinimizeKey = Enum.KeyCode.RightControl
+})
+
+-- Força o Fluent original a tirar a transparência do fundo
+Fluent:ToggleTransparency(false)
+
+-- Notificação apenas para testar se carregou
+Fluent:Notify({
+    Title = "Tapiiox hub",
+    Content = "welcome tapiiox hub!",
+    Duration = 3
+})
+local ScreenGui = Instance.new("ScreenGui")
+local ToggleBtn = Instance.new("ImageButton")
+local UICorner = Instance.new("UICorner")
+
+ScreenGui.Parent = game.CoreGui
+ScreenGui.ResetOnSpawn = false
+ScreenGui.ResetOnSpawn = true
+
+ToggleBtn.Parent = ScreenGui
+ToggleBtn.Size = UDim2.new(0, 60, 0, 60)
+ToggleBtn.Position = UDim2.new(0, 20, 0.5, 0)
+ToggleBtn.BackgroundTransparency = 1
+ToggleBtn.Image = "rbxassetid://132313789987260"
+
+UICorner.CornerRadius = UDim.new(1, 0)
+UICorner.Parent = ToggleBtn
+
+-- Abre/fecha igual RightControl
+ToggleBtn.MouseButton1Click:Connect(function()
+    game:GetService("VirtualInputManager"):SendKeyEvent(true, Enum.KeyCode.RightControl, false, game)
+    task.wait(0.1)
+    game:GetService("VirtualInputManager"):SendKeyEvent(false, Enum.KeyCode.RightControl, false, game)
+end)
+
+-- Arrastar a bolinha
+local dragging, dragStart, startPos
+
+ToggleBtn.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 then
+        dragging = true
+        dragStart = input.Position
+        startPos = ToggleBtn.Position
+    end
+end)
+
+game:GetService("UserInputService").InputChanged:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseMovement and dragging then
+        local delta = input.Position - dragStart
+        ToggleBtn.Position = UDim2.new(
+            startPos.X.Scale,
+            startPos.X.Offset + delta.X,
+            startPos.Y.Scale,
+            startPos.Y.Offset + delta.Y
+        )
+    end
+end)
+
+game:GetService("UserInputService").InputEnded:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 then
+        dragging = false
+    end
+end)
+
+game:GetService("UserInputService").InputChanged:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseMovement and dragging then
+        local delta = input.Position - dragStart
+        ToggleBtn.Position = UDim2.new(
+            startPos.X.Scale, 
+            startPos.X.Offset + delta.X, 
+            startPos.Y.Scale, 
+            startPos.Y.Offset + delta.Y
+        )
+    end
+end)
+
+game:GetService("UserInputService").InputEnded:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 then
+        dragging = false
+    end
+end)
+-- ========================================================
+-- 1. PRIMEIRO: CRIA TODAS AS ABAS DO MENU
+-- ========================================================
+local Tabs = {
+    Main = Window:AddTab({ Title = "Main", Icon = "" })
+}
+
+-- [[ GERENCIADORES INTERNOS ]]
+SaveManager:SetLibrary(Fluent)
+InterfaceManager:SetLibrary(Fluent)
+SaveManager:SetIgnoreIndexes({})
+
+
+local Workspace = game:GetService("Workspace")
+local Players = game:GetService("Players")
+
+_G.PuxarBolaActive = false
+
+-- Removemos a variável fixa lá de cima e criamos uma função para achar a bola atualizada
+local function getSoccerBall()
+    local footballField = Workspace:FindFirstChild("FootballField")
+    return footballField and footballField:FindFirstChild("SoccerBall")
+end
+
+-- TOGGLE: Puxa e mantém a bola no jogador
+Tabs.Main:AddToggle("PuxarBolaToggle", {
+    Title = "Bring ball",
+    Default = false,
+    Callback = function(Value)
+        _G.PuxarBolaActive = Value
+        
+        if Value then
+            task.spawn(function()
+                while _G.PuxarBolaActive do
+                    local character = Players.LocalPlayer.Character
+                    local myHrp = character and character:FindFirstChild("HumanoidRootPart")
+                    
+                    -- Procuramos a bola ATUAL no frame atual
+                    local currentBall = getSoccerBall()
+                    
+                    if myHrp and currentBall and currentBall:IsA("BasePart") then
+                        -- Zera as velocidades físicas para ela não sair voando com o delay do teletransporte
+                        currentBall.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+                        currentBall.AssemblyAngularVelocity = Vector3.new(0, 0, 0)
+                        
+                        -- Teletransporta a bola para ficar exatamente 3 studs à sua frente
+                        currentBall.CFrame = myHrp.CFrame * CFrame.new(0, -1, -3)
+                    end
+                    task.wait() -- Roda em cada frame (Heartbeat aproximado) para prender bem a bola
+                end
+            end)
+        end
+    end
+})
+
+Tabs.Main:AddButton({
+    Title = "Trocar de Servidor",
+    Description = "Entra em outro servidor público com vagas livres",
+    Callback = function()
+        local TeleportService = game:GetService("TeleportService")
+        local HttpService = game:GetService("HttpService")
+        local url = "https://games.roblox.com/v1/games/" .. game.PlaceId .. "/servers/Public?sortOrder=Asc&limit=100"
+        
+        local success, result = pcall(function()
+            return HttpService:JSONDecode(game:HttpGet(url))
+        end)
+        
+        if success and result and result.data then
+            for _, server in ipairs(result.data) do
+                if server.playing < server.maxPlayers and server.id ~= game.JobId then
+                    pcall(function()
+                        TeleportService:TeleportToPlaceInstance(game.PlaceId, server.id, Players.LocalPlayer)
+                    end)
+                    return
+                end
+            end
+        end
+    end
+})
+
+local Workspace = game:GetService("Workspace")
+local Players = game:GetService("Players")
+
+-- Variáveis de controle
+local quantidadeBrings = 1
+
+-- Referência da bola
+local footballField = Workspace:FindFirstChild("FootballField")
+local soccerBall = footballField and footballField:FindFirstChild("SoccerBall")
+
+-- 1. SLIDER: Define a quantidade de vezes que a bola será puxada
+Tabs.Main:AddSlider("BringSlider", {
+    Title = "Quantidade de Brings",
+    Description = "Quantas vezes a bola será teleportada em sequência ao clicar",
+    Min = 1,
+    Max = 10,
+    Default = 1,
+    Rounding = 0,
+    Callback = function(Value)
+        quantidadeBrings = Value
+    end
+})
+
+-- 2. BUTTON: Executa a quantidade exata de brings jogando a bola na sua frente
+Tabs.Main:AddButton({
+    Title = "Dar Bring na Bola",
+    Description = "Puxa a bola para a sua frente com base no slider",
+    Callback = function()
+        local character = Players.LocalPlayer.Character
+        local myHrp = character and character:FindFirstChild("HumanoidRootPart")
+        
+        -- Função interna para achar a bola atualizada no Workspace
+        local function getSoccerBall()
+            local footballField = Workspace:FindFirstChild("FootballField")
+            return footballField and footballField:FindFirstChild("SoccerBall")
+        end
+        
+        -- Pega a bola atual antes de iniciar o processo
+        local currentBall = getSoccerBall()
+        
+        if myHrp and currentBall and currentBall:IsA("BasePart") then
+            task.spawn(function()
+                -- Loop que roda o número exato de vezes do Slider
+                for i = 1, quantidadeBrings do
+                    -- Atualiza a referência da bola DENTRO do loop, caso ela respawne enquanto o loop roda
+                    currentBall = getSoccerBall()
+                    
+                    if currentBall and currentBall:IsA("BasePart") then
+                        -- Zera a física para ela não bugar ou sair voando de perto
+                        currentBall.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+                        currentBall.AssemblyAngularVelocity = Vector3.new(0, 0, 0)
+                        
+                        -- CFrame.new(0, 0, -3) joga a bola 3 studs à frente da direção que seu personagem está olhando
+                        currentBall.CFrame = myHrp.CFrame * CFrame.new(0, 0, -3)
+                    end
+                    
+                    -- Micro intervalo para o servidor computar cada posição
+                    task.wait(0.05)
+                end
+            end)
+        end
+    end
+})
+
+-- Função interna para achar a bola atualizada no Workspace
+local function getSoccerBall()
+    local footballField = Workspace:FindFirstChild("FootballField")
+    return footballField and footballField:FindFirstChild("SoccerBall")
+end
+
+-- Define a tecla padrão do atalho alterada para Q
+local AtivarBringKey = Enum.KeyCode.Q
+
+-- 1. Cria um botão na interface apenas para o usuário saber qual é a tecla (Atualizado para [ Q ])
+Tabs.Main:AddButton({
+    Title = "Atalho do Bring: [ Q ]",
+    Description = "Aperte Q no teclado para puxar a bola instantaneamente",
+    Callback = function()
+        -- Botão visual, não precisa fazer nada ao clicar nele
+    end
+})
+
+-- 2. Código "Raiz" usando a API nativa do Roblox para escutar o teclado
+local UserInputService = game:GetService("UserInputService")
+
+UserInputService.InputBegan:Connect(function(input, gameProcessed)
+    -- gameProcessed impede que a bola seja puxada se o jogador estiver digitando no chat do jogo
+    if gameProcessed then return end
+    
+    -- Verifica se o jogador apertou a tecla certa (Q)
+    if input.KeyCode == AtivarBringKey then
+        local character = Players.LocalPlayer.Character
+        local myHrp = character and character:FindFirstChild("HumanoidRootPart")
+        local currentBall = getSoccerBall()
+        
+        if myHrp and currentBall and currentBall:IsA("BasePart") then
+            -- Zera a física e as propriedades antigas para forçar a parada da bola no lag de rede
+            currentBall.Velocity = Vector3.new(0, 0, 0)
+            currentBall.RotVelocity = Vector3.new(0, 0, 0)
+            currentBall.AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+            currentBall.AssemblyAngularVelocity = Vector3.new(0, 0, 0)
+            
+            -- Teletransporta a bola 3 studs à sua frente
+            currentBall.CFrame = myHrp.CFrame * CFrame.new(0, 0, -3)
+        end
+    end
+end)
